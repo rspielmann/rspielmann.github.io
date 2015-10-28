@@ -1,3 +1,5 @@
+// partially inspired by https://github.com/mikepparks/ingress-ap-calc
+
 $(function() {
   var levelAP =
     [0, 10000, 30000, 70000, 150000, 300000, 600000, 1200000, 2400000,
